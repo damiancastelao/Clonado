@@ -6,7 +6,7 @@ package boletin2_2;
 
 /**
  *
- * @author Adrian
+ * @author Damian
  */
 public class Boletin2_2 {
 
